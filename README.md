@@ -1,1 +1,1 @@
-# Human-Pose-recognition
+# Human-Pose-detection
